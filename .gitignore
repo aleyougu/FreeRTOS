@@ -1,1 +1,4 @@
-dir DebugConfig/*
+DebugConfig/
+Obj/
+Template*
+keilkilll.bat
